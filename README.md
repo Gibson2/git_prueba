@@ -1,5 +1,8 @@
 # git_prueba
 clase de Git
 
-Modificando el archivo
+Modificando el
 
+otra linea
+
+de este archivo
